@@ -12,7 +12,7 @@ To understand the interaction between the outcomes of theater kickstarter fundra
 
 [Kickstarter campaign outcomes based on months_PivotTable](resources/Outcomes_by_launch_month.PNG)
 
-
+It appears that more campaigns were launched 
 ### Outcomes Based on Launch Date Visualization
 
 ### Challenges related to Outcomes Based on Launch Date
