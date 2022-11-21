@@ -8,7 +8,24 @@ This project provides Louise with information about how different campaigns fare
 Using the data provided, the fundraising campaign outcomes for plays were analyzed based on both launch dates and funding goals. 
 
 ### Analysis of Outcomes Based on Launch Date
-To understand the interaction between the outcomes of the kickstarter fundraising campaigns based on their launch dates required reinterpreting the 'date' column 
+To understand the interaction between the outcomes of theater kickstarter fundraising campaigns based on their launch dates required filtering the data to select only the theatre category and then reinterpreting the creation date column that had earlier been changed to a user friendly format, and extracting the year. Now results for theatre kickstarter fundraising campaigns can be grouped and then broken down by outcome (successful, failed, cancelled). The resulting Pivot Table looks like this:
+
+Parent Category:	theater			
+Years	(All)							
+	   successful	failed	 canceled	     Total
+Dec	    37	          35	    3	         75
+Nov	    54	          31	    3	         88
+Oct	    65	          50		  0         115
+Sep	    59	          34	    4	         97
+Aug	    72	          47	    4	        123
+Jul	    87	          50	    1	        138
+Jun	   100	          49	    4	        153
+May	   111	          52	    3	        166
+Apr	    71	          40	    2	        113
+Mar	    56	          33	    3	         92
+Feb	    71	          39	    3	        113
+Jan	    56	          33	    7	         96
+Total	 839	         493	   37	       1369
 
 
 ### Outcomes Based on Launch Date Visualization
