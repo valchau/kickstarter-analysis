@@ -14,7 +14,7 @@ To understand the interaction between the fundraising goals and the success or f
 ### Outcomes Based on Goals
 For the analysis of kickstarter campaign outcomes based on the funding goals, the following chart shows the percentages of successful, failed and cancelled plays based on the fundraising goals. 
 
-
+[Kickstarter campaign outcomes based on goal ranges](resources/Outcomes_vs_Goals.png)
 
 There are several things to notice in this image:
 
