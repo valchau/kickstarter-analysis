@@ -12,22 +12,23 @@ To understand the interaction between the outcomes of theater kickstarter fundra
 
 [Kickstarter campaign outcomes based on months_PivotTable](resources/Outcomes_by_launch_month2.PNG)
 
-It appears that more campaigns were launched during the summer months; although if you launch a campaign in May you have the best chance of success. 
-
 ### Outcomes Based on Launch Date Visualization
+For the analysis of kickstarter campaign outcomes based on the launch date's month, the following image shows the number of successful, failed and cancelled theatre events. It appears that overall more campaigns were launched during the summer months; although if you launch a campaign in May you have the best chance of success. In this visualization it appears that there are always more successful theatre campaigns than failed ones and a few cancelled campaigns appear as well. March, January and Decomeber are the three months that I would not advise Louise to start her kickstarter campaign becuase those months appear 
 
 [Kickstarter campaign outcomes based on month lanched](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Challenges related to Outcomes Based on Launch Date
-
-
-
+The challenges for this analysis were: 
+* converting the date of camapaign creation (launch) from its original format in the data into a human readable short date 
+* extracting the year from that date
+* creating the pivot table to correctly show the months instead of the years while breaking out the columns for the campaign outcomes of success, failure, cancelled.
+* sorting the months! they started out with Dec first and I had to resort them to correctly show Jan - Dec. 
 
 ### Analysis of Outcomes Based on Goals
 To understand the interaction between the fundraising goals and the success or failure of the fundraising campaigns, the number of successful, failed and cancelled outcomes of each campaign for plays were counted. Then using this information, the percentage of each type (success, failure, cancelled) was computed for selected ranges of fundraising goals in intevals of $5,000, starting with less than $1,000 for small campaigns, and going up fundraising goals to $50,000 or more. This breakdown of goals was designed to help Louise determine a reasonable goal amount for her play's kickstarter campaign. 
 
 ### Outcomes Based on Goals Visualization
-For the analysis of kickstarter campaign outcomes based on the funding goals, the following image shows the percentages of successful, failed and cancelled plays based on the fundraising goals. 
+For the analysis of kickstarter campaign outcomes, the following image shows the percentages of successful, failed and cancelled plays based on the fundraising goals. 
 [Kickstarter campaign outcomes based on goal ranges](resources/Outcomes_vs_Goals.png)
 
 There are several things to notice in this image:
@@ -61,4 +62,4 @@ Number Successful
 
 
 ## Results
-
+In Conclusion, the image showing theater outcomes by launch date suggests 
