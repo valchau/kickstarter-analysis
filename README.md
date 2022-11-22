@@ -15,7 +15,7 @@ To understand the interaction between the outcomes of theater kickstarter fundra
 ### Outcomes Based on Launch Date Visualization
 For the analysis of kickstarter campaign outcomes based on the launch date's month, the following image shows the number of successful, failed and cancelled theatre events. It appears that overall more campaigns were launched during the summer months; although if you launch a campaign in May you have the best chance of success. In this visualization it appears that there are always more successful theatre campaigns than failed ones and a few cancelled campaigns appear as well. March, January and Decomeber are the three months that I would not advise Louise to start her kickstarter campaign becuase those months appear 
 
-[Kickstarter campaign outcomes based on month lanched](resources/Theater_Outcomes_vs_Launch.png)
+[Kickstarter campaign outcomes based on month lanched](resources/Theater_Outcomes_vs_Launch2.png)
 
 ### Challenges related to Outcomes Based on Launch Date
 The challenges for this analysis were: 
@@ -62,4 +62,10 @@ Number Successful
 
 
 ## Results
-In Conclusion, the image showing theater outcomes by launch date suggests 
+In Conclusion, the image showing theater outcomes by launch date suggests that kickstarter fundraising campaigns launched in May are the most likely to be successful plus the summer months are the next best to time launch. December appears to be the least likely month to be successful so don't expect to start your fundraising campaign in December or in March.  
+
+Looking at the succcess of fundraising campaigns based on the fundraising goals set, the data shows that very small campaigns such as those raising less than $1,000 appear to second most likely to succeed. Raising $1,000  to just under $5,000 dollars are most likely to succeed overall. For some reason, campaigns raising from $15,000 to about $33,000 and from $44,000 or so and above appear fail more than succeed. 
+
+It would be good to find out more about the reasons for failure or success, and know how close to the goal the failing campaigns were. That might help Louise determine when to launch and what goals to set. 
+
+
