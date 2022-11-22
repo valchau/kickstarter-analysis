@@ -16,7 +16,7 @@ It appears that more campaigns were launched during the summer months; although 
 
 ### Outcomes Based on Launch Date Visualization
 
-[Kickstarter campaign outcomes based on month lanched](resources/Outcomes_by_launch_month2.PNG)
+[Kickstarter campaign outcomes based on month lanched](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Challenges related to Outcomes Based on Launch Date
 
